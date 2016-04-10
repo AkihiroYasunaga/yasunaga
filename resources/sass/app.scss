@@ -1,10 +1,4 @@
 // app.scss
-@import "bower_components/bootstrap/dist/css/bootstrap.min.css";
+@import "bower_components/bootstrap/dist/css/bootstrap.min";
 // カラー定義インポート
 @import "resources/sass/_color.scss";
-
-*{
-  margin: 0;
-  padding: 0;
-
-}
